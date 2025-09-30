@@ -1,5 +1,13 @@
 # Natural Gas Consumption Demand Forecasting
 
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange)](https://www.tensorflow.org/)  
+[![Jupyter Notebook](https://img.shields.io/badge/IDE-Jupyter%20Notebook-orange)](https://jupyter.org/)  
+[![XGBoost](https://img.shields.io/badge/XGBoost-1.x-lightgrey)](https://xgboost.readthedocs.io/)  
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-blueviolet)](https://scikit-learn.org/) 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-red)](https://matplotlib.org/)  
+[![Plotly](https://img.shields.io/badge/Plotly-5.x-lightblue)](https://plotly.com/) 
+
 ## 📌 Project Overview
 The goal of this project is to forecast natural gas demand in Greece for the **12-month period from August 2024 to July 2025**.  
 Accurate forecasting is critical for energy planning, supply optimization, and cost reduction for industrial, residential, and commercial consumers.
